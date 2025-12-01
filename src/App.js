@@ -115,9 +115,9 @@ const translations = {
     en: "Animated websites",
   },
   serviceWebDesc: {
-    ua: "Лендинги, невеликі сайти й промо-сторінки від 1000 до 10 000 грн. Адаптив, ефекти, швидке завантаження.",
-    ru: "Лендинги, небольшие сайты и промо-страницы от 1000 до 10 000 грн. Адаптив, эффекты, быстрая загрузка.",
-    en: "Landing pages and small sites from 1000 to 10 000 UAH. Responsive, animated and fast.",
+    ua: "Лендинги, невеликі сайти й промо-сторінки від 2500 до 15 000 грн. Адаптив, ефекти, швидке завантаження.",
+    ru: "Лендинги, небольшие сайты и промо-страницы от 2500 до 15 000 грн. Адаптив, эффекты, быстрая загрузка.",
+    en: "Landing pages and small sites from 2500 to 15 000 UAH. Responsive, animated and fast.",
   },
   serviceDomainTitle: {
     ua: "Домен і технічна частина",
@@ -131,9 +131,9 @@ const translations = {
   },
   serviceBotTitle: { ua: "Telegram-боти", ru: "Telegram-боты", en: "Telegram bots" },
   serviceBotDesc: {
-    ua: "Боти від 300 до 2000 грн: заявки, магазини, оплати, підтримка. Логіка повністю під ваш запит.",
-    ru: "Боты от 300 до 2000 грн: заявки, магазины, оплаты, поддержка. Логика полностью под ваш запрос.",
-    en: "Bots from 300 to 2000 UAH: leads, shops, payments, support. Logic tailored to your needs.",
+    ua: "Боти від 800 до 6000 грн: заявки, магазини, оплати, підтримка. Логіка повністю під ваш запит.",
+    ru: "Боты от 800 до 6000 грн: заявки, магазины, оплаты, поддержка. Логика полностью под ваш запрос.",
+    en: "Bots from 800 to 6000 UAH: leads, shops, payments, support. Logic tailored to your needs.",
   },
 
   pricingTitle: { ua: "Умови та оплата", ru: "Условия и оплата", en: "Payment and terms" },
@@ -205,9 +205,9 @@ const translations = {
     en: "Quality website",
   },
   showcaseCard1Tag: {
-    ua: "1000 – 5000 грн",
-    ru: "1000 – 5000 грн",
-    en: "1,000 – 5,000 UAH",
+    ua: "2500 – 5000 грн",
+    ru: "2500 – 5000 грн",
+    en: "2,500 – 5,000 UAH",
   },
   showcaseCard1Desc: {
     ua: "Лендінги та невеликі сайти для бізнесу: швидкий запуск, акуратний дизайн і легкі анімації.",
@@ -215,9 +215,9 @@ const translations = {
     en: "Landing pages and small business sites: fast delivery, clean design, tasteful animations.",
   },
   showcaseCard1Price: {
-    ua: "1000 – 5000 грн",
-    ru: "1000 – 5000 грн",
-    en: "1,000 – 5,000 UAH",
+    ua: "2500 – 5000 грн",
+    ru: "2500 – 5000 грн",
+    en: "2,500 – 5,000 UAH",
   },
   showcaseCard1Item1: {
     ua: "Адаптив під мобільні",
@@ -241,9 +241,9 @@ const translations = {
     en: "Large and bespoke website",
   },
   showcaseCard2Tag: {
-    ua: "5000 – 10000 грн+",
-    ru: "5000 – 10000 грн+",
-    en: "5,000 – 10,000 UAH+",
+    ua: "5000 – 15000 грн+",
+    ru: "5000 – 15000 грн+",
+    en: "5,000 – 15,000 UAH+",
   },
   showcaseCard2Desc: {
     ua: "Багатосторінкові та складні проєкти: глибока структура, багато контенту, унікальні ефекти. Якщо проєкт дуже великий, бюджет обговорюємо індивідуально.",
@@ -251,9 +251,9 @@ const translations = {
     en: "Multi-page, feature-rich projects with deep structure and custom effects. Truly huge projects are priced individually.",
   },
   showcaseCard2Price: {
-    ua: "5000 – 10000+ грн",
-    ru: "5000 – 10000+ грн",
-    en: "5,000 – 10,000+ UAH",
+    ua: "5000 – 15000+ грн",
+    ru: "5000 – 15000+ грн",
+    en: "5,000 – 15,000+ UAH",
   },
   showcaseCard2Item1: {
     ua: "Складна структура сторінок",
@@ -277,9 +277,9 @@ const translations = {
     en: "Telegram bots",
   },
   showcaseCard3Tag: {
-    ua: "300 – 2000 грн",
-    ru: "300 – 2000 грн",
-    en: "300 – 2,000 UAH",
+    ua: "800 – 6000 грн",
+    ru: "800 – 6000 грн",
+    en: "800 – 6,000 UAH",
   },
   showcaseCard3Desc: {
     ua: "Боти під ваші задачі: заявки, підтримка, магазини, оплати, автоматизація. Ціна залежить від логіки та інтеграцій.",
@@ -287,9 +287,9 @@ const translations = {
     en: "Bots for leads, support, shops, payments, and automation. Final price depends on logic and integrations.",
   },
   showcaseCard3Price: {
-    ua: "300 – 2000 грн",
-    ru: "300 – 2000 грн",
-    en: "300 – 2,000 UAH",
+    ua: "800 – 6000 грн",
+    ru: "800 – 6000 грн",
+    en: "800 – 6,000 UAH",
   },
   showcaseCard3Item1: {
     ua: "Сценарій під ваш бізнес",
@@ -352,9 +352,9 @@ const translations = {
   },
 
   faqQ4: {
-    ua: "Що саме входить у сайт за 1000 – 5000 грн?",
-    ru: "Что входит в сайт за 1000 – 5000 грн?",
-    en: "What’s included in a 1,000 – 5,000 UAH site?",
+    ua: "Що саме входить у сайт за 2500 – 5000 грн?",
+    ru: "Что входит в сайт за 2500 – 5000 грн?",
+    en: "What’s included in a 2,500 – 5,000 UAH site?",
   },
   faqA4: {
     ua: "Лендінг або невеликий бізнес-сайт, адаптив, дизайн, базові анімації, швидке завантаження.",
