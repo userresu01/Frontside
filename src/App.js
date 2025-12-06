@@ -368,9 +368,9 @@ const translations = {
     en: "How much does a Telegram bot cost?",
   },
   faqA5: {
-    ua: "Від 300 до 2000 грн. Все залежить від логіки: заявки, оплати, магазин, підтримка.",
-    ru: "От 300 до 2000 грн. Всё зависит от логики: заявки, оплаты, магазин, поддержка.",
-    en: "From 300 to 2,000 UAH depending on logic: leads, payments, shop, support.",
+    ua: "Від 800 до 6000 грн. Все залежить від логіки: заявки, оплати, магазин, підтримка.",
+    ru: "От 800 до 6000 грн. Всё зависит от логики: заявки, оплаты, магазин, поддержка.",
+    en: "From 800 to 6,000 UAH depending on logic: leads, payments, shop, support.",
   },
 
   contactTitle: { ua: "Написати нам", ru: "Написать нам", en: "Contact us" },
