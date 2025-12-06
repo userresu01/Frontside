@@ -138,14 +138,14 @@ const translations = {
 
   pricingTitle: { ua: "Умови та оплата", ru: "Условия и оплата", en: "Payment and terms" },
   pricingLine1: {
-    ua: "Передплата 20% для нових клієнтів",
-    ru: "Предоплата 20% для новых клиентов",
-    en: "20% prepayment for new clients",
+    ua: "Передплата 50% для нових клієнтів",
+    ru: "Предоплата 50% для новых клиентов",
+    en: "50% prepayment for new clients",
   },
   pricingLine2: {
-    ua: "Передплата 50% для постійних клієнтів",
-    ru: "Предоплата 50% для постоянных клиентов",
-    en: "50% prepayment for returning clients",
+    ua: "Передплата 20% для постійних клієнтів",
+    ru: "Предоплата 20% для постоянных клиентов",
+    en: "20% prepayment for returning clients",
   },
   pricingLine3: {
     ua: "Домен: будь-який сервіс плюс 30% за налаштування і супровід",
