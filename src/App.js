@@ -379,7 +379,7 @@ const translations = {
     ru: "Проще всего написать в Telegram. Кратко опишите проект, бюджет и дедлайн.",
     en: "The easiest way is Telegram. Briefly describe your project, budget and deadline.",
   },
-  telegramPlaceholder: { ua: "@frontside_team", ru: "@frontside_team", en: "@frontside_team" },
+  telegramPlaceholder: { ua: "@frontside_manager", ru: "@frontside_manager", en: "@frontside_manager" },
 
   footerRights: { ua: "Усі права захищені.", ru: "Все права защищены.", en: "All rights reserved." },
   footerBuiltBy: { ua: "Вироблено командою FrontSide", ru: "Сделано командой FrontSide", en: "Built by FrontSide Team" },
