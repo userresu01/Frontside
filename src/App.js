@@ -29,7 +29,7 @@ const translations = {
   heroTitle: {
     ua: "Потрібен сайт? Відвідай FrontSide!",
     ru: "Нужен сайт? Посети FrontSide!",
-    en: "Need a site? Visite FrontSide!",
+    en: "Need a website? Visit FrontSide!",
   },
   heroSubtitle: {
     ua: "FrontSide перетворює ідею на живий, анімований продукт з характером.",
@@ -115,9 +115,9 @@ const translations = {
     en: "Animated websites",
   },
   serviceWebDesc: {
-    ua: "Лендинги, невеликі сайти й промо-сторінки від 2500 до 15 000 грн. Адаптив, ефекти, швидке завантаження.",
+    ua: "Лендінги, невеликі сайти й промо-сторінки від 2500 до 15 000 грн. Адаптив, ефекти, швидке завантаження.",
     ru: "Лендинги, небольшие сайты и промо-страницы от 2500 до 15 000 грн. Адаптив, эффекты, быстрая загрузка.",
-    en: "Landing pages and small sites from 2500 to 15 000 UAH. Responsive, animated and fast.",
+    en: "Landing pages and small sites from $59.99 to $399.99. Responsive, animated and fast.",
   },
   serviceDomainTitle: {
     ua: "Домен і технічна частина",
@@ -133,7 +133,7 @@ const translations = {
   serviceBotDesc: {
     ua: "Боти від 800 до 6000 грн: заявки, магазини, оплати, підтримка. Логіка повністю під ваш запит.",
     ru: "Боты от 800 до 6000 грн: заявки, магазины, оплаты, поддержка. Логика полностью под ваш запрос.",
-    en: "Bots from 800 to 6000 UAH: leads, shops, payments, support. Logic tailored to your needs.",
+    en: "Bots from $19.99 to $149.99: leads, shops, payments, support. Logic tailored to your needs.",
   },
 
   pricingTitle: { ua: "Умови та оплата", ru: "Условия и оплата", en: "Payment and terms" },
@@ -207,7 +207,7 @@ const translations = {
   showcaseCard1Tag: {
     ua: "2500 – 5000 грн",
     ru: "2500 – 5000 грн",
-    en: "2,500 – 5,000 UAH",
+    en: "$59.99 – $119.99",
   },
   showcaseCard1Desc: {
     ua: "Лендінги та невеликі сайти для бізнесу: швидкий запуск, акуратний дизайн і легкі анімації.",
@@ -217,7 +217,7 @@ const translations = {
   showcaseCard1Price: {
     ua: "2500 – 5000 грн",
     ru: "2500 – 5000 грн",
-    en: "2,500 – 5,000 UAH",
+    en: "$59.99 – $119.99",
   },
   showcaseCard1Item1: {
     ua: "Адаптив під мобільні",
@@ -243,7 +243,7 @@ const translations = {
   showcaseCard2Tag: {
     ua: "5000 – 15000 грн+",
     ru: "5000 – 15000 грн+",
-    en: "5,000 – 15,000 UAH+",
+    en: "$119.99 – $399.99+",
   },
   showcaseCard2Desc: {
     ua: "Багатосторінкові та складні проєкти: глибока структура, багато контенту, унікальні ефекти. Якщо проєкт дуже великий, бюджет обговорюємо індивідуально.",
@@ -253,7 +253,7 @@ const translations = {
   showcaseCard2Price: {
     ua: "5000 – 15000+ грн",
     ru: "5000 – 15000+ грн",
-    en: "5,000 – 15,000+ UAH",
+    en: "$119.99 – $399.99+",
   },
   showcaseCard2Item1: {
     ua: "Складна структура сторінок",
@@ -279,7 +279,7 @@ const translations = {
   showcaseCard3Tag: {
     ua: "800 – 6000 грн",
     ru: "800 – 6000 грн",
-    en: "800 – 6,000 UAH",
+    en: "$19.99 – $149.99",
   },
   showcaseCard3Desc: {
     ua: "Боти під ваші задачі: заявки, підтримка, магазини, оплати, автоматизація. Ціна залежить від логіки та інтеграцій.",
@@ -289,7 +289,7 @@ const translations = {
   showcaseCard3Price: {
     ua: "800 – 6000 грн",
     ru: "800 – 6000 грн",
-    en: "800 – 6,000 UAH",
+    en: "$19.99 – $149.99",
   },
   showcaseCard3Item1: {
     ua: "Сценарій під ваш бізнес",
@@ -341,36 +341,36 @@ const translations = {
   },
 
   faqQ3: {
-    ua: "Чи допоможете з доменом і запуском?",
-    ru: "Поможете с доменом и запуском?",
-    en: "Do you help with domain and launch?",
+    ua: "Чи безкоштовні правки перед передачею сайта/бота?",
+    ru: "Бесплатные ли правки, вносимые перед передачей сайта/бота?",
+    en: "Are revisions made before handing over the website/bot free of charge?",
   },
   faqA3: {
-    ua: "Так. За додаткову платню, ми підбираємо домен, купуємо замість вас і підключаємо до сайту. Ви отримуєте готовий результат.",
-    ru: "Да. За дополнительную плату, одбираем домен, покупаем за вас и подключаем к сайту. Вы получаете готовый результат.",
-    en: "Yes. For an aditional fee, we pick, buy, and connect your domain. You get a ready-to-go site.",
+    ua: "Звісно, всі правки, що ви вносите, будуть цілковито безкоштовними, поки сайт або бот не буде переданий під ваш контроль.",
+    ru: "Конечно, все вносимые вами правки будут совершенно бесплатные, пока сайт или бот не будет передан под ваш контроль.",
+      en: "Sure, all revisions you request will be completely free of charge until the website or bot is handed over to you and placed under your control.",
   },
 
   faqQ4: {
-    ua: "Що саме входить у сайт за 2500 – 5000 грн?",
-    ru: "Что входит в сайт за 2500 – 5000 грн?",
-    en: "What’s included in a 2,500 – 5,000 UAH site?",
+    ua: "Наскільки досвідчена команда FrontSide?",
+    ru: "Насколько опытная команда FrontSide?",
+    en: "How experienced is the FrontSide Team?",
   },
   faqA4: {
-    ua: "Лендінг або невеликий бізнес-сайт, адаптив, дизайн, базові анімації, швидке завантаження.",
-    ru: "Лендинг или небольшой бизнес-сайт, адаптив, дизайн, базовые анимации, быстрая загрузка.",
-    en: "Landing or small business site with responsive layout, design, basic animations, and speed tuning.",
+    ua: "Наша команда налічує значну кількість вироблених сайтів та ботів для різних країн. Ознайомитися більше можна особисто у Telegram.",
+    ru: "Наша команда насчитывает значительное количество изготовленных сайтов и ботов для разных стран. Ознакомится больше вы можете лично в Telegram.",
+    en: "Our team has completed a significant number of websites and bots for clients in different countries. You can learn more by contacting us on Telegram.",
   },
 
   faqQ5: {
-    ua: "Скільки коштує Telegram-бот?",
-    ru: "Сколько стоит Telegram-бот?",
-    en: "How much does a Telegram bot cost?",
+    ua: "Потрібен сайт?",
+    ru: "Нужен сайт?",
+    en: "Need a website?",
   },
   faqA5: {
-    ua: "Від 800 до 6000 грн. Все залежить від логіки: заявки, оплати, магазин, підтримка.",
-    ru: "От 800 до 6000 грн. Всё зависит от логики: заявки, оплаты, магазин, поддержка.",
-    en: "From 800 to 6,000 UAH depending on logic: leads, payments, shop, support.",
+    ua: "Відвідайте FrontSide!",
+    ru: "Посетите FrontSide!",
+    en: "Visit FrontSide!",
   },
 
   contactTitle: { ua: "Написати нам", ru: "Написать нам", en: "Contact us" },
