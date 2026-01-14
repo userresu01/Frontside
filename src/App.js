@@ -124,14 +124,14 @@ const translations = {
         en: "Landing pages and small sites from $349.99 to $699.99+. Responsive, animated and fast.",
     },
     serviceDomainTitle: {
-        ua: "Домен і технічна частина",
-        ru: "Домен и техническая часть",
-        en: "Domain and tech setup",
+        ua: "Хостинг, домен і технічна частина",
+        ru: "Хостинг, домен и техническая часть",
+        en: "Hosting, domain and tech setup",
     },
     serviceDomainDesc: {
-        ua: "Підбираємо домен, купуємо замість вас і налаштовуємо. Вартість домену плюс 30% за наш час та досвід.",
-        ru: "Подбираем домен, покупаем за вас и настраиваем. Стоимость домена плюс 30% за наше время и опыт.",
-        en: "We pick, buy and configure your domain. Domain price plus 30% for our time and expertise.",
+        ua: "Ми готові допомогти вам з публікацією вашого сайту за додаткову доплату в 20% від суми вартості сайту. Домени вартістю до 500 грн купуємо за наш рахунок; вище - за ваш з доплатою в 30% від вартості домену.",
+        ru: "Мы готовы помочь вам с публикацией вашего сайта за дополнительную доплату в 20% от сумы стоимости сайта. Домены стоимостью до 500 грн покупаем за наш счет; выше - за ваш счет с доплатой в 30% от стоимости домена.",
+        en: "We are ready to assist you with publishing your website for an additional fee of 20% of the total website cost. Domains priced up to $11.99 will be purchased at our expense; domains above this price will be covered by you with an additional 30% surcharge on the domain cost.",
     },
     serviceBotTitle: { ua: "Telegram-боти", ru: "Telegram-боты", en: "Telegram bots" },
     serviceBotDesc: {
@@ -152,9 +152,9 @@ const translations = {
         en: "20% prepayment for returning clients",
     },
     pricingLine3: {
-        ua: "Домен: будь-який сервіс плюс 30% за налаштування і супровід",
-        ru: "Домен: любой сервис плюс 30% за настройку и сопровождение",
-        en: "Domain: any provider plus 30% for setup and support",
+        ua: "Допомога з публікацією та супровідом",
+        ru: "Помощь с публикацией и сопровождением",
+        en: "Assistance with publishing and ongoing support",
     },
     pricingLine4: {
         ua: "Чіткі дедлайни, без хаосу та зникнень",
@@ -209,9 +209,9 @@ const translations = {
         en: "Quality website",
     },
     showcaseCard1Tag: {
-        ua: "15 000 – 25 000+ грн",
-        ru: "15 000 – 25 000+ грн",
-        en: "$349.99 – $599.99+",
+        ua: "15 000 – 25 000 грн",
+        ru: "15 000 – 25 000 грн",
+        en: "$349.99 – $599.99",
     },
     showcaseCard1Desc: {
         ua: "Лендінги та невеликі сайти для бізнесу: швидкий запуск, акуратний дизайн і легкі анімації.",
@@ -219,9 +219,9 @@ const translations = {
         en: "Landing pages and small business sites: fast delivery, clean design, tasteful animations.",
     },
     showcaseCard1Price: {
-        ua: "15 000 – 25 000+ грн",
-        ru: "15 000 – 25 000+ грн",
-        en: "$349.99 – $599.99+",
+        ua: "15 000 – 25 000 грн",
+        ru: "15 000 – 25 000 грн",
+        en: "$349.99 – $599.99",
     },
     showcaseCard1Item1: {
         ua: "Адаптив під мобільні",
@@ -245,9 +245,9 @@ const translations = {
         en: "Large and bespoke website",
     },
     showcaseCard2Tag: {
-        ua: "15 000 – 30 000+ грн",
-        ru: "15 000 – 30 000+ грн",
-        en: "$349.99 – $699.99+",
+        ua: "25 000 – 30 000+ грн",
+        ru: "25 000 – 30 000+ грн",
+        en: "$599.99 – $699.99+",
     },
     showcaseCard2Desc: {
         ua: "Багатосторінкові та складні проєкти: глибока структура, багато контенту, унікальні ефекти. Якщо проєкт дуже великий, бюджет обговорюємо індивідуально.",
@@ -255,9 +255,9 @@ const translations = {
         en: "Multi-page, feature-rich projects with deep structure and custom effects. Truly huge projects are priced individually.",
     },
     showcaseCard2Price: {
-        ua: "15 000 – 30 000+ грн",
-        ru: "15 000 – 30 000+ грн",
-        en: "$349.99 – $699.99+",
+        ua: "25 000 – 30 000+ грн",
+        ru: "25 000 – 30 000+ грн",
+        en: "$599.99 – $699.99+",
     },
     showcaseCard2Item1: {
         ua: "Складна структура сторінок",
@@ -350,9 +350,9 @@ const translations = {
         en: "Are revisions made before handing over the website/bot free of charge?",
     },
     faqA3: {
-        ua: "Звісно, всі правки, що ви вносите, будуть цілковито безкоштовними, поки сайт або бот не буде переданий під ваш контроль.",
-        ru: "Конечно, все вносимые вами правки будут совершенно бесплатные, пока сайт или бот не будет передан под ваш контроль.",
-        en: "Sure, all revisions you request will be completely free of charge until the website or bot is handed over to you and placed under your control.",
+        ua: "Всі правки, що ви вносите, будуть цілковито безкоштовними, поки їх кількість не перебільшить 3 правки після закінчення терміну розробки сайту та показу першої його версії. Далі - по 4000 грн за один пакет будь-яких правок.",
+        ru: "Все вносимые вами правки будут абсолютно бесплатными, пока их количество не превысит 3 правки после окончания термина разработки сайта и демонстрации первой его версии. Дальше - по 4000 грн за один пакет любых правок.",
+        en: "All changes you make will be completely free until their number exceeds 3 revisions after the end of the website development period and the presentation of its first version. After that, each package of any changes will cost $399.99.",
     },
 
     faqQ4: {
