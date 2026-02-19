@@ -209,9 +209,9 @@ const translations = {
         en: "Quality website",
     },
     showcaseCard1Tag: {
-        ua: "15 000 – 25 000 грн",
-        ru: "15 000 – 25 000 грн",
-        en: "$349.99 – $599.99",
+        ua: "10 000 – 18 000 грн",
+        ru: "10 000 – 18 000 грн",
+        en: "$229.99 – $419.99",
     },
     showcaseCard1Desc: {
         ua: "Лендінги та невеликі сайти для бізнесу: швидкий запуск, акуратний дизайн і легкі анімації.",
@@ -221,7 +221,7 @@ const translations = {
     showcaseCard1Price: {
         ua: "15 000 – 25 000 грн",
         ru: "15 000 – 25 000 грн",
-        en: "$349.99 – $599.99",
+        en: "$229.99 – $419.99",
     },
     showcaseCard1Item1: {
         ua: "Адаптив під мобільні",
@@ -245,9 +245,9 @@ const translations = {
         en: "Large and bespoke website",
     },
     showcaseCard2Tag: {
-        ua: "25 000 – 30 000+ грн",
-        ru: "25 000 – 30 000+ грн",
-        en: "$599.99 – $699.99+",
+        ua: "18 000 – 25 000+ грн",
+        ru: "18 000 – 25 000+ грн",
+        en: "$419.99 – $579.99+",
     },
     showcaseCard2Desc: {
         ua: "Багатосторінкові та складні проєкти: глибока структура, багато контенту, унікальні ефекти. Якщо проєкт дуже великий, бюджет обговорюємо індивідуально.",
@@ -255,9 +255,9 @@ const translations = {
         en: "Multi-page, feature-rich projects with deep structure and custom effects. Truly huge projects are priced individually.",
     },
     showcaseCard2Price: {
-        ua: "25 000 – 30 000+ грн",
-        ru: "25 000 – 30 000+ грн",
-        en: "$599.99 – $699.99+",
+        ua: "18 000 – 25 000+ грн",
+        ru: "18 000 – 25 000+ грн",
+        en: "$419.99 – $579.99+",
     },
     showcaseCard2Item1: {
         ua: "Складна структура сторінок",
@@ -281,9 +281,9 @@ const translations = {
         en: "Telegram bots",
     },
     showcaseCard3Tag: {
-        ua: "10 000 – 20 000+ грн",
-        ru: "10 000 – 20 000+ грн",
-        en: "$229.99 – $499.99+",
+        ua: "6 000 – 13 000+ грн",
+        ru: "6 000 – 13 000+ грн",
+        en: "$139.99 – $299.99+",
     },
     showcaseCard3Desc: {
         ua: "Боти під ваші задачі: заявки, підтримка, магазини, оплати, автоматизація. Ціна залежить від логіки та інтеграцій.",
@@ -291,9 +291,9 @@ const translations = {
         en: "Bots for leads, support, shops, payments, and automation. Final price depends on logic and integrations.",
     },
     showcaseCard3Price: {
-        ua: "10 000 – 20 000+ грн",
-        ru: "10 000 – 20 000+ грн",
-        en: "$229.99 – $499.99+",
+        ua: "6 000 – 13 000+ грн",
+        ru: "6 000 – 13 000+ грн",
+        en: "$139.99 – $299.99+",
     },
     showcaseCard3Item1: {
         ua: "Сценарій під ваш бізнес",
