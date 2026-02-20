@@ -119,9 +119,9 @@ const translations = {
         en: "Animated websites",
     },
     serviceWebDesc: {
-        ua: "Лендінги, невеликі сайти й промо-сторінки від 15 000 до 30 000+ грн. Адаптив, ефекти, швидке завантаження.",
-        ru: "Лендинги, небольшие сайты и промо-страницы от 15 000 до 30 000+ грн. Адаптив, эффекты, быстрая загрузка.",
-        en: "Landing pages and small sites from $349.99 to $699.99+. Responsive, animated and fast.",
+        ua: "Лендінги, невеликі сайти й промо-сторінки від 10 000 до 25 000+ грн. Адаптив, ефекти, швидке завантаження.",
+        ru: "Лендинги, небольшие сайты и промо-страницы от 10 000 до 25 000+ грн. Адаптив, эффекты, быстрая загрузка.",
+        en: "Landing pages and small sites from $229.99 to $579.99+. Responsive, animated and fast.",
     },
     serviceDomainTitle: {
         ua: "Хостинг, домен і технічна частина",
@@ -135,9 +135,9 @@ const translations = {
     },
     serviceBotTitle: { ua: "Telegram-боти", ru: "Telegram-боты", en: "Telegram bots" },
     serviceBotDesc: {
-        ua: "Боти від 10 000 до 20 000+ грн: заявки, магазини, оплати, підтримка. Логіка повністю під ваш запит.",
-        ru: "Боты от 10 000 до 20 000+ грн: заявки, магазины, оплаты, поддержка. Логика полностью под ваш запрос.",
-        en: "Bots from $229.99 to $499.99+: leads, shops, payments, support. Logic tailored to your needs.",
+        ua: "Боти від 6 000 до 13 000+ грн: заявки, магазини, оплати, підтримка. Логіка повністю під ваш запит.",
+        ru: "Боты от 6 000 до 20 000+ грн: заявки, магазины, оплаты, поддержка. Логика полностью под ваш запрос.",
+        en: "Bots from $139.99 to $299.99+: leads, shops, payments, support. Logic tailored to your needs.",
     },
 
     pricingTitle: { ua: "Умови та оплата", ru: "Условия и оплата", en: "Payment and terms" },
@@ -328,7 +328,7 @@ const translations = {
         en: "How long does a website take?",
     },
     faqA1: {
-        ua: "Залежить від складності. Маленький сайт — 1–3 дні, середній — 3–7, великий — до 10–14 днів.",
+        ua: "Залежить від складності. Маленький сайт — 1–3 дні, середній — 4–8, великий — до 12–14 днів.",
         ru: "Зависит от сложности. Маленький сайт — 1–3 дня, средний — 3–7, большой — до 10–14 дней.",
         en: "Depends on complexity. Small sites take 1–3 days, medium 3–7, large up to 10–14 days.",
     },
