@@ -12,9 +12,6 @@ import {
     FaCheckCircle,
     FaBars,
     FaTimes,
-    FaClock,
-    FaMoneyBillWave,
-    FaShoppingCart,
 } from "react-icons/fa";
 
 
