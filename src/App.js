@@ -216,8 +216,8 @@ const translations = {
         en: "Landing pages and small business sites: fast delivery, clean design, tasteful animations.",
     },
     showcaseCard1Price: {
-        ua: "15 000 – 25 000 грн",
-        ru: "15 000 – 25 000 грн",
+        ua: "10 000 – 18 000 грн",
+        ru: "10 000 – 18 000 грн",
         en: "$229.99 – $419.99",
     },
     showcaseCard1Item1: {
